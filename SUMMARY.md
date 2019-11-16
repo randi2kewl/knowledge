@@ -5,5 +5,8 @@
 ## WordPress
 
 * [@wordpress/scripts](wordpress/wordpress-scripts.md)
-* [Untitled](wordpress/untitled-1.md)
+
+## VIM
+
+* [Editing](vim/editing.md)
 
