@@ -1,6 +1,4 @@
-# Editing
-
-## Find / Replace
+# Find / Replace
 
 ### Remove all lines that contain a specific string
 
