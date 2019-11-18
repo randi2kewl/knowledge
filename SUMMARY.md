@@ -8,6 +8,7 @@
 
 ## VIM
 
+* [Settings](vim/settings.md)
 * [Editing](vim/editing-1/README.md)
   * [Find / Replace](vim/editing-1/editing.md)
   * [Change Content](vim/editing-1/change-content.md)
