@@ -1,5 +1,11 @@
 # Copy / Paste
 
+### Copy line
+
+```text
+yy
+```
+
 ### Copy inside quotes
 
 {% hint style="info" %}
