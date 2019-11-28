@@ -15,4 +15,5 @@
   * [Movement](vim/editing-1/movement.md)
   * [Toggling Capitalization](vim/editing-1/toggling-capitalization.md)
   * [Copy / Paste](vim/editing-1/copy-paste.md)
+* [Resources](resources.md)
 
